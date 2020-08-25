@@ -6,7 +6,9 @@ I named this project "Let's explore US Bikeshare Data".
 This name reveals exactly what this project can present to you.
 
 ### Description
-Describe what your project is about and what it does
+In this project, you can find out bikeshare usage patterns in three cities in the US.
+These three cities are Chicago, New York City  and Washington.
+If you give a name of the city, a month and a day, we will show you the result accordingly.
 
 ### Files used
 Include the files used
