@@ -2,7 +2,8 @@
 This project was created on 2nd August, 2020.
 
 ### Project Title
-Replace the Project Title
+I named this project "Let's explore US Bikeshare Data".
+This name reveals exactly what this project can present to you.
 
 ### Description
 Describe what your project is about and what it does
