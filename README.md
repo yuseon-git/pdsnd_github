@@ -26,5 +26,6 @@ Following files were used in this project:
 ### Credits
 All of the bike share data in this project were provided by **Motivate**, one of the most experienced
 bike share provider in the US.
+Click [here](https://www.motivateco.com/) to discover more about Motivate.
 
 Also, I thank **Udacity** for giving this task so that I can present the data to you interactively.
