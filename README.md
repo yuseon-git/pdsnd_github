@@ -12,10 +12,10 @@ If you give a name of the city, a month and a day, we will show you the result a
 
 Some examples of the information that you can find out are:
 
-the most frequent times of travel
-the most popular trip based on a start station and an end station
-the average trip duration
-the status of the user types (and in case of New York City and Chicago) user ages  
+* the most frequent times of travel
+* the most popular trip based on a start station and an end station
+* the average trip duration
+* the status of the user types (and in case of New York City and Chicago) user ages  
 
 ### Files used
 Following files were used in this project:
@@ -27,4 +27,4 @@ washington.csv
 All of the bike share data in this project were provided by Motivate, one of the most experienced
 bike share provider in the US.
 
-Also, I thank Udacity for giving this task so that I can present the data to you interactively. 
+Also, I thank Udacity for giving this task so that I can present the data to you interactively.
