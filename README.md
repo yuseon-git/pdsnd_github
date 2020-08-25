@@ -24,4 +24,7 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All of the bike share data in this project were provided by Motivate, one of the most experienced
+bike share provider in the US.
+
+Also, I thank Udacity for giving this task so that I can present the data to you interactively. 
