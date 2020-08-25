@@ -19,9 +19,9 @@ Some examples of the information that you can find out are:
 
 ### Files used
 Following files were used in this project:
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 All of the bike share data in this project were provided by Motivate, one of the most experienced
