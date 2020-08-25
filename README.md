@@ -10,6 +10,13 @@ In this project, you can find out bikeshare usage patterns in three cities in th
 These three cities are Chicago, New York City  and Washington.
 If you give a name of the city, a month and a day, we will show you the result accordingly.
 
+Some examples of the information that you can find out are:
+
+the most frequent times of travel
+the most popular trip based on a start station and an end station
+the average trip duration
+the status of the user types (and in case of New York City and Chicago) user ages  
+
 ### Files used
 Include the files used
 
